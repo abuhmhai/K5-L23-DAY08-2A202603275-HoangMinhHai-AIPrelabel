@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: abuhmhai
 - Repo bài nộp (URL): https://github.com/abuhmhai/K5-L23-DAY08-2A202603275-HoangMinhHai-AIPrelabel
-- Commit chốt bài (hash): điền sau commit cuối, chưa commit bài
+- Commit chốt bài (hash): 8d34c1810160bc1197242be8e858fa956e66b070
 - Máy: macOS Apple Silicon (arm64), GPU MPS
 - CVAT (Docker): localhost
 
